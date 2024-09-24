@@ -1,0 +1,12 @@
+Generative AI (GenAI) refers to a branch of artificial intelligence focused on creating new content, such as text, images, music, or even video, by learning patterns from large datasets. 
+Unlike traditional AI, which typically classifies, predicts, or analyzes existing data, Generative AI generates original data or content that mimics the patterns it has learned.
+
+Key Concepts of GenAI
+Machine Learning (ML): GenAI leverages machine learning algorithms to learn from large amounts of data and then create new outputs based on that learning.
+Deep Learning: Most modern generative models, especially for complex tasks like text and image generation, use deep learning. Neural networks,
+particularly architectures like transformers, are essential in this process.
+Training Data: Generative models rely on vast datasets (e.g., millions of images, books, or recordings) to learn patterns. 
+The better and more diverse the dataset, the more creative and useful the model’s output can be.
+
+Probabilistic Models: Generative models often use probability to create outputs that are likely to resemble their training data. 
+This allows for some creativity and variability rather than just repeating data exactly.

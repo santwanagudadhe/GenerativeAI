@@ -2,7 +2,8 @@
 
 ## Unit 1: Introduction to AI
 
-This repository contains unit-wise notes on Artificial Intelligence and Machine Learning. Below is the table of contents for **Unit 1: Introduction to AI**, which provides an overview of the history, evolution, and key concepts in AI.
+This repository contains unit-wise notes on Artificial Intelligence and Machine Learning. Below is the table of contents for 
+**Unit 1: Introduction to AI**, which provides an overview of the history, evolution, and key concepts in AI.
 
 ### Table of Contents
 

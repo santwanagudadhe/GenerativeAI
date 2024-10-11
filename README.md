@@ -8,7 +8,7 @@ This repository contains unit-wise notes on Artificial Intelligence and Machine 
 ### Table of Contents
 
 1. [What is Artificial Intelligence?](What_is_Artificial_Intelligence.md)
-2. [History and Evolution of AI/ML](#2-history-and-evolution-of-aiml)
+2. [History and Evolution of AI/ML](History and Evolution of AI & ML.md)
 3. [Deep Learning Revolution](#3-deep-learning-revolution)
 4. [Transfer Learning](#4-transfer-learning)
 5. [History of Neural Networks](#5-history-of-neural-networks)

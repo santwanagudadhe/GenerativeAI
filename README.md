@@ -10,6 +10,6 @@ This repository contains unit-wise notes on Artificial Intelligence and Machine 
 1. [What is Artificial Intelligence?](What_is_Artificial_Intelligence.md)
 2. [Deep Learning Revolution](#3-deep-learning-revolution)
 4. [Transfer Learning](transfer-learning.md)
-5. [History of Neural Networks](Neural Network.md)
+5. [History of Neural Network](Neural-Network.md)
 6. [Natural Language Processing (NLP)](#6-natural-language-processing-nlp)
 
